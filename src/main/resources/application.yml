@@ -1,0 +1,15 @@
+spring:
+  application:
+  name: mcp-demo
+
+  ai:
+    mcp:
+      server:
+        type: SYNC
+        name: products
+        version: 1.0.0
+  main:
+    web-application-type: none
+    banner-mode: off
+
+
