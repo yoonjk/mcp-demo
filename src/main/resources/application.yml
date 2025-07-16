@@ -1,6 +1,6 @@
 spring:
   application:
-  name: mcp-demo
+    name: mcp-demo
 
   ai:
     mcp:
@@ -13,3 +13,6 @@ spring:
     banner-mode: off
 
 
+logging:
+  pattern:
+    console: 
